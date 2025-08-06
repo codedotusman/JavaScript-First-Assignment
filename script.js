@@ -1,3 +1,11 @@
+/*Here are 4 more comparison operators, usually used to compare numbers.
+> is greater than
+< is less than
+>= is greater than or equal to
+<= is less than or equal to
+*/
+---
+
 //Question:1
 
 var FirstName = `Muhammad `
@@ -86,3 +94,4 @@ alert("Total Price of 4 Perfume is " + totalPrice + "PKR");
  console.log(result); 
 
 // Ans :17
+
